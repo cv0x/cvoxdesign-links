@@ -2,7 +2,7 @@
 
 A custom, responsive "Linktree" style landing page with a **Pulp Fiction** movie theme. Designed for [cvOxDesign](https://cvoxdesign.com).
 
-![Pulp Fiction Theme](src/cvoxdesign-logo.svg)
+<img src="src/web_preview.png" width="500" alt="Pulp Fiction Theme Preview">
 
 ## Features
 
